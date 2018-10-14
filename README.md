@@ -11,7 +11,7 @@ In order to be considered for the PHP position, you must complete the following 
 2. Create a *build* folder to contain your code.
 3. In the *build* directory, please create a PHP class that accomplishes the following:
 	- Connect to the [Github API](http://developer.github.com/)
-	- Find the [joyent/node](https://github.com/joyent/node) repository
+	- Find the [nodejs/node](https://github.com/nodejs/node) repository
 	- Find the most recent commits (choose at least 25 or more of the commits)
 4. Create a page that uses the above class to display the recent commits by author.
 	- If the commit hash ends in a number, color that row to light blue (#E6F1F6).
